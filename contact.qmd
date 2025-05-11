@@ -1,0 +1,28 @@
+---
+title: "Contact"
+format: html
+---
+
+## Get in Touch
+
+I’d love to hear from you! You can connect with me through the following platforms:
+
+### 📧 Email  
+[shinkyokushin.satoshi@gmail.com](mailto:shinkyokushin.satoshi@gmail.com)
+
+### 🔗 LinkedIn  
+[Visit My LinkedIn Profile](https://www.linkedin.com/in/Miho Terahata){target="_blank"}
+
+### 🎵 TikTok  
+[@chibimoko on TikTok](https://www.tiktok.com/@chibimoko){target="_blank"}
+
+### 📸 Instagram  
+[@chorunynmica on Instagram](https://www.instagram.com/chorunynmica){target="_blank"}
+
+### 📍 Location  
+Port Moody, BC, Canada
+
+---
+
+Feel free to reach out for collaboration, translation inquiries, or just to say hello!
+

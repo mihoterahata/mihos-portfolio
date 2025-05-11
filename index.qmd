@@ -1,0 +1,54 @@
+---
+title: "Miho's Portfolio"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+<div style="text-align: center;">
+  <img src="mihoportfolio_files/logo3.png" alt="Choruny & Furriend Logo" width="200"/>
+  <h2>Choruny & Furriend Studio</h2>
+  <h3>Miho Terahata</h3>
+</div>
+
+---
+
+*Digital Creator & MBA Candidate | Multilingual Strategist | Social Media Specialist*
+
+## 👋 About Me
+
+Hi, I’m Miho — an MBA student at University Canada West and a passionate digital strategist.  
+I create multilingual content and help brands connect across cultures using SEO, social media, and analytics tools.
+
+## 🎓 Education & Certifications
+
+- University of Wisconsin–Madison | B.S. in Mathematics  
+- City University of Seattle | B.A.M. (Business Administration and Management)  
+- Beijing Language and Culture University | Certificate in Chinese Language and Culture  
+- MBA | University Canada West (Expected 2025)  
+- Google Analytics Certified  
+- Agile Scrum Master Certified  
+- Mimic Pro & Mimic Social Certified
+
+## 🧪 Work Samples
+
+- 📔 **Digital Planner Website** — Designed using Canva and HTML  
+- 🎯 **Advertising Campaign Projects** — Built promotional mockups for simulated brands  
+- 📈 **Marketing Simulations** — Ran social ad campaigns in Mimic Pro & Mimic Social
+
+## 🛠️ Skills
+
+- Languages: Japanese, English, Chinese  
+- Tools: Python, Tableau, Excel, Canva  
+- Marketing: SEO / SEM, email campaigns, audience insights  
+- Creative: Branding, layout, cross-cultural content
+
+## 📬 Contact
+
+- 📧 Email: your-email@example.com  
+- 🎵 TikTok: [@chorunynmica](https://www.tiktok.com/@chorunynmica)  
+- 📺 YouTube: [@chorunynmica](https://www.youtube.com/@chorunynmica)  
+- 🌐 Portfolio Site: [https://churuny-and-furriend.my.canva.site](https://churuny-and-furriend.my.canva.site)
+
+---

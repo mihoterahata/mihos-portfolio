@@ -1,0 +1,64 @@
+---
+title: "Resume"
+format: html
+---
+
+## Professional Summary
+
+Dedicated tour coordinator and creator successfully facilitates communication between people of different cultures and backgrounds. Experienced in interpretation and translation services in high-pressure environments. Fluent in Japanese, English, Mandarin Chinese, and conversational Russian, Successful TikTok creator in TikTOk API Team. 
+
+## Work Experience
+
+### Freelance Translator and Interpreter  
+_Vancouver, BC • 04/2017 – Present_  
+- Delivered accurate translations and interpretations for clients under tight deadlines.  
+- Supported communication in business, legal, medical, and cultural contexts.  
+- Translated promotional materials, contracts, and technical documents.
+- Freelance translator on call at CanTalk.
+
+### Ito Bussan – Translator and Interpreter  
+_Nagoya, Japan • 1999 – 2017_  
+- Provided translation and interpretation services for internal and external communications.  
+- Adapted documents and training materials for local markets.
+
+### JTB – Tour Coordinator  
+_Tokyo, Japan • 1981 – 1999_  
+- Coordinated international travel and conferences.  
+- Delivered customer service in English and Japanese for global clients.
+
+## Education
+
+- **Diploma:** Business Administration Management – Sprott Shaw College, 2022  
+- **BBA:** Business Administration – City University of Seattle, Vancouver, BC  
+- **Diploma:** Chinese culture and language - Beijing Language Culture University, Beijing, China  
+- **B.Sc.:** Mathematics – University of Wisconsin, Madison  
+
+## Skills
+
+- Translation & Interpretation  
+- UX Design  
+- Localization  
+- Calendar Management  
+- Social Media Marketing  
+- Data Analytics
+-Content Creation
+
+## Certifications
+
+- Amadeus, Sabre, Mimic Pro, Mimic Social
+- Microsoft Office 365
+- Google Data Analytics
+
+## Languages
+
+- Japanese (Native), English (Fluent), Mandarin Chinese (Professional), Russian (Elementary) French (Elementary)
+
+## Volunteer & Leader Experience
+
+- Registered volunteer translator
+- PTA president for three years at Columbia International School in Saitama, Japan
+
+[Download My Resume (PDF)](Resume.pdf){.btn .btn-primary target="_blank"}
+
+---
+
