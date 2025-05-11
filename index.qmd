@@ -7,7 +7,7 @@ format:
 ---
 
 <div style="text-align: center;">
-  <img src="mihoportfolio_files/logo3.png" alt="Choruny & Furriend Logo" width="200"/>
+  <img src="mihoportfolio_file/logo3.png" alt="Choruny & Furriend Logo" width="200"/>
   <h2>Choruny & Furriend Studio</h2>
   <h3>Miho Terahata</h3>
 </div>
