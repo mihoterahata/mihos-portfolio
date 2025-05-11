@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs    # 👈 Required for GitHub Pages to find your site
 
 website:
-  title: "Miho Terahata"
+  title: "Miho's Portfolio"
   navbar:
     left:
       - text: Home
